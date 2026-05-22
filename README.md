@@ -1,7 +1,8 @@
 # Python Object Oriented Programming 
 
-The repository is structured in three Parts:
+The repository is structured in 4 Parts:
 * Introduction
 * GUIs with PyGame 
-* ENCAPSULATION, POLYMORPHISM,
-AND INHERITANCE
+* Encapsulation, Polymorphism,
+and Inheritance
+* Using OOP in Game Development
